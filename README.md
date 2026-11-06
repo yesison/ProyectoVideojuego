@@ -1,2 +1,3 @@
-Actualizaciar README profesional del proyecto <img width="1518" height="845" alt="image" src="https://github.com/user-attachments/assets/5e933222-7822-4a83-a0df-97b7d4ea16aa" />
+<img width="604" height="2268" alt="image" src="https://github.com/user-attachments/assets/365cad5b-82a4-46c5-84ac-626c2eeca9d3" />
+
 
